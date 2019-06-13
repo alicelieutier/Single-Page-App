@@ -1,6 +1,6 @@
 # Single page app
 
-Here's a basic structure for a single page app.
+This is a very basic template for a single page app. Developed while coaching at Makers to provide students with a starting point for their first Javascript apps.
 
 ### Run tests:
 - open SpecRunner.html
@@ -10,5 +10,5 @@ Here's a basic structure for a single page app.
 
 ### Structure
 
-`src` contains all the domain logic
+`src/` should contain all the domain logic
 `interface.js` contains interactions with the user
